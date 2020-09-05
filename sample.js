@@ -1,1 +1,1 @@
-console.log("keep continous learning");
+console.log("work hard and smart");

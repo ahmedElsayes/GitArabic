@@ -1,1 +1,1 @@
-console.log("keep learning");
+console.log("keep software learning");
