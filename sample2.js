@@ -1,1 +1,1 @@
-console.log("keep code practicing......");
+console.log("keep learning");
