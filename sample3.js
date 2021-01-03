@@ -1,1 +1,0 @@
-console.log("this my first modification in the master branch which not conflicting with commits in the test_branch");
