@@ -6,3 +6,4 @@ new line to test the conflict between branches, this a change in master branch
 
 
 this line to test merging strategy: added from master branch;
+Here iam adding new line in master
